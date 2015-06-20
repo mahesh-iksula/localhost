@@ -1,0 +1,6 @@
+2014-02-24 06:53:11 u62248194 3oICEU-1WeVSD3DLa-00NgnY |< REMOTE=121.242.42.2 SCRIPT=/careersmail.php -- /usr/sbin/sendmail -t -i
+2014-02-24 06:53:11 u62248194 3oICEU-1WeVSD3DLa-00NgnY <= S=info@ecreativeindia.com SZ=1232 D=0 SID=357931962
+2014-02-24 06:53:12 u62248194 3oICEU-1WeVSD3DLa-00NgnY => hr@ecreativeindia.com msmtp.perfora.net[172.19.143.3] 250 Message 0Lwb9b-1XK8nA3Jmh-017ftz accepted by mrus0.perfora.net
+2014-02-26 00:18:06 u62248194 3owmly-1XKt3E03as-016vjW |< REMOTE=216.151.137.34 SCRIPT=/careersmail.php -- /usr/sbin/sendmail -t -i
+2014-02-26 00:18:06 u62248194 3owmly-1XKt3E03as-016vjW <= S=info@ecreativeindia.com SZ=1505 D=0 SID=357931962
+2014-02-26 00:18:07 u62248194 3owmly-1XKt3E03as-016vjW => hr@ecreativeindia.com msmtp.perfora.net[172.19.143.3] 250 Message 0MfmOa-1WdLYY0G8a-00NtF7 accepted by mrus4.perfora.net

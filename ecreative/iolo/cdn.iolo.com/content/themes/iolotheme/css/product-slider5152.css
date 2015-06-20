@@ -1,0 +1,258 @@
+
+#main-content {
+    border-right: 1px dotted #C3C3C1;
+    float: left;
+    padding-right: 20px;
+    width: 770px;
+}
+#main-content ul {
+    margin: 15px 0;
+}
+#main-content h3 {
+    font-size: 22px;
+    margin: 15px 0;
+    word-spacing: 4px;
+}
+.front #main-content li {
+    font-size: 16px;
+    list-style: disc outside none;
+    margin-bottom: 5px;
+    margin-left: 18px;
+}
+.front #main-content a {
+    color: #DE312A;
+}
+.front #main-content a:hover {
+    text-decoration: underline;
+}
+.front #main-content p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.product-slider-wrap {
+}
+.front #main-content .product-slider-wrap li {
+    list-style: none outside none;
+}
+.not-front .product-slider-wrap {
+    margin-bottom: 20px;
+}
+.product-slider-wrap ul {
+    background-image: url("../../../../wp-content/uploads/images/slider/iolo_center_bg_small.jpg");
+    background-position: center bottom;
+    background-repeat: repeat-x;
+    height: 130px;
+    overflow: hidden;
+    width: 770px;
+}
+.product-slider-wrap li {
+    height: 150px;
+    list-style: none outside none;
+    margin: 0;
+}
+.view-examples li {
+    list-style: disc outside none;
+    margin-bottom: 5px;
+    margin-left: 16px;
+}
+.view-examples li a {
+    color: #DE312A;
+}
+.view-examples li a:hover {
+    text-decoration: underline;
+}
+#block-block-5 {
+    border-top: 1px dotted #C3C3C1;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+#block-block-5 li {
+    list-style: disc outside none;
+    margin-bottom: 5px;
+    margin-left: 16px;
+}
+.not-front .node-content {
+    border-bottom: 1px dotted #C3C3C1;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+.product-slider-wrap.border {
+    border-top: 1px dotted #C3C3C1;
+    padding-top: 15px;
+}
+.product-slider-wrap.border .bx-window {
+    margin-top: 78px;
+}
+.product-slider-wrap .left {
+    float: left;
+    width: 205px;
+}
+.product-slider-wrap .right {
+    float: left;
+    width: 320px;
+}
+.product-slider-wrap .right .album {
+    font-size: 16px;
+    margin-top: 60px;
+}
+.product-slider-wrap .right .band {
+    color: #838383;
+    font-size: 14px;
+}
+.product-slider-wrap .multiple li {
+    width: 155px;
+}
+.product-slider-wrap .bx-wrapper {
+    margin: 0 auto;
+}
+.product-slider-wrap .bx-prev {
+    background: url("../../../../wp-content/uploads/images/slider/icon_arrow_left.png") no-repeat scroll 0 -31px transparent;
+    height: 31px;
+    left: 721px;
+    position: absolute;
+    text-indent: -999999px;
+    top: -40px;
+    width: 31px;
+}
+.product-slider-wrap .bx-next {
+    background: url("../../../../wp-content/uploads/images/slider/icon_arrow_right.png") no-repeat scroll 0 -31px transparent;
+    height: 31px;
+    position: absolute;
+    right: 4px;
+    text-indent: -999999px;
+    top: -40px;
+    width: 31px;
+}
+.product-slider-wrap .bx-next:hover, .product-slider-wrap .bx-prev:hover {
+    background-position: 0 0;
+}
+.field .field-label {
+    color: #838383;
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+#iolo_mod_footer_one ul li {
+    color: #000000;
+    font-family: Arial,Verdana,sans-serif;
+    font-size: 11px;
+    list-style: none outside none;
+    margin: 0 0 7px;
+}
+#iolo_mod_footer_one h4 {
+    padding-bottom: 10px;
+}
+#iolo_mod_footer_two ul li {
+    color: #000000;
+    font-family: Arial,Verdana,sans-serif;
+    font-size: 11px;
+    list-style: none outside none;
+    margin: 0 0 7px;
+}
+#iolo_mod_footer_two h4 {
+    padding-bottom: 10px;
+}
+#iolo_mod_footer_three ul li {
+    color: #000000;
+    font-family: Arial,Verdana,sans-serif;
+    font-size: 11px;
+    list-style: none outside none;
+    margin: 0 0 7px;
+}
+#iolo_mod_footer_three h4 {
+    padding-bottom: 10px;
+}
+#iolo_mod_footer_four ul li {
+    color: #000000;
+    font-family: Arial,Verdana,sans-serif;
+    font-size: 11px;
+    list-style: none outside none;
+    margin: 0 0 7px;
+}
+#iolo_mod_footer_four h4 {
+    padding-bottom: 10px;
+}
+
+#slider1 {
+	margin-left: -15px !important;
+	margin-top: -4px;
+}
+
+.iolo_vhr {
+    background-image: url("../../../../wp-content/uploads/images/home-page/iolo_vhr_small.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    float: left;
+    height: 130px;
+    width: 1px;
+}
+.bx-window{
+    background-image: url("../../../../wp-content/uploads/images/home-page/iolo_center_bg_small.jpg");
+    background-position: center bottom;
+    background-repeat: repeat-x;
+    height: 131px;
+    text-align: left;
+    width: 762px !important;
+}
+.bx-window a{
+	color: #000000 !important;
+    font-family: Arial,Verdana,sans-serif;
+	font-size: 11px;
+}
+.bx-prev {
+    background: url("../../../../wp-content/uploads/images/slider/icon_arrow_left.png") no-repeat scroll 0 -31px transparent;
+    height: 31px;
+    left: 721px;
+    position: absolute;
+    text-indent: -999999px;
+    top: -40px;
+    width: 31px;
+}
+.bx-next {
+    background: url("../../../../wp-content/uploads/images/slider/icon_arrow_right.png") no-repeat scroll 0 -31px transparent;
+    height: 31px;
+    position: absolute;
+    right: 4px;
+    text-indent: -999999px;
+    top: -40px;
+    width: 31px;
+}
+.subTitle {
+    color: #4F4F4F;
+    font-family: Arial,Verdana,sans-serif;
+    font-size: 18px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.iolo_center_shadow_product {
+    background-image: url("../../../../wp-content/uploads/images/home-page/iolo_bottom_shadow.jpg");
+    background-repeat: no-repeat;
+    height: 23px;
+    width: 762px;
+}
+.sliderFP{
+	text-align: center; 
+	padding-top: 0px; 
+	padding-bottom: 45px; 
+	font-family: Arial, Verdana, sans-serif; 
+	font-size: 11px;
+}
+
+.sm-iolo-slider {
+}
+.sm-iolo-slider .widget_text {
+    margin-bottom: 0px;
+}
+
+.sm-iolo-slider .textwidget {
+    border-bottom: 0px solid #DFDFDF;
+    border-left: 0px solid #DFDFDF;
+    border-right: 0px solid #DFDFDF;
+}
+
+
+
+
+
+
+

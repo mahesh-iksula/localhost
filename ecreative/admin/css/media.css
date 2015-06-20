@@ -1,0 +1,70 @@
+﻿/* COMMON STYLE */ 
+* { margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+h1{ font-size:16px }
+body {margin: 0;padding: 0;}
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+p {text-align: left;}
+ul {margin: 0;padding: 0;width: 100%;float: left;}
+ul li {margin: 0;float: left;list-style: none;}
+ul li a {margin: 0;float: left;text-decoration: none;display: block;}
+ul li a:hover {float: left;text-decoration: underline;}
+form {margin: 0;padding: 0;}
+input {margin: 0;padding: 2px;font-size: 11px;}
+/* HEADER */ 
+div.header {background: #ffffff;float: left;width: 100%;border-bottom: 1px #00afff solid;}
+div.logoholder { width: 200px; height: 50px; float: left; margin: 5PX 0 5px 0; }
+div.tmenu { width:500px;  float:right }
+div.tmenu ul, div.tmenu ul li{ float:right; width:auto; padding: 2px 4px; }
+div.tmenu ul, div.tmenu ul li, div.tmenu ul li a { font-size:11px;  }
+/* CUSTOME STYLE STARTS HERE */ 
+.floatl { float: left; }
+.floatr { float: right; }
+#leftpanel {width: 180px;margin: 0;float: left;}
+#leftpanel ul{width: 160px;margin:0 ;float: left;}
+#leftpanel ul li{width: 160px;float: left; display:block; }
+#leftpanel ul li a{width: 100%;float: left; border-bottom:1px #cccccc dashed; display:block; color:#0099cc;padding:7px 10px; }
+#leftpanel ul li a:hover{font-weight:bold; background:#e1ffff}
+#container,.container { padding-bottom: 60px; margin: 0 10px 0 190px; }
+/* FORM */
+input.login { background: url('../images/sprites/source/input-login.gif') no-repeat; border: 0px #ffffff none; width: 180px; padding: 5px; }
+/* ADMINISTRATION PANEL */
+div.login { background: url('../images/sprites/source/adminbg.gif') no-repeat; width: 312px; height: 142px; margin: 100px auto; }
+div.login label { width: 100%; float: left; padding: 10px 10px 0 20px; }
+div.login table { width: 304px; margin: 29px 0 0 2px; padding: 0; border-top: 0px #cccccc none; border-right: 0px #cccccc none; border-left: 0px #cccccc none; border-collapse: collapse; }
+div.login table tr { margin: 0; padding: 0; border: 0px #cccccc none; }
+div.login table tr th { margin: 0; padding: 5px; background: #ffcc00; }
+div.login table tr td { margin: 0; padding: 5px 0; border-bottom: 0px #cccccc none; }
+div.login table tr td label { float: left; padding: 0 0 0 18px; margin: 0; color: #333333; }
+div.login table tr td input.loginbtn { float: left; padding: 0; margin: 0; }
+/* TABLE FORMATING */
+table { margin: 10px 0 0 0; padding: 0; border-top: 1px #cccccc solid; border-right: 1px #cccccc solid; border-left: 1px #cccccc solid; }
+table tr { margin: 0; padding: 0; border: 0px #cccccc none; }
+table tr th { margin: 0; padding: 5px; background: #66ccff; color: #ffffff; }
+table tr td { margin: 0; padding: 4px; border-bottom: 1px #cccccc solid; }
+table tr td a { color: #fe019a; font-weight: bold; }
+/*footer*/
+.footer { width: 100%; float: left; border-top: 1px #cccccc solid; padding: 10px 0 10px 0; text-align: center; background: #ffffff; position:relative; margin:10px 0 0 0; }
+/* COMMON SETTINGS */
+.w10 { width: 10px; }
+.w20 { width: 20px; }
+.w30 { width: 30px; }
+.w40 { width: 40px; }
+.w50 { width: 50px; }
+.w60 { width: 60px; }
+.w80 { width: 80px; }
+.w100 { width: 100px; }
+.w200 { width: 200px; }
+.w100p { width: 100%; }
+.txtgray{ color:#ccc }
+/* PAGGINATION  */
+.numbers {width: auto;margin: 0;float: right;text-align: center;}
+.numbers ul {width: auto;margin: 0;	padding: 0 0 0 0;text-align: center;float: right;}
+.numbers li {width: auto;float: left;text-align:right;list-style: none;margin: 0 1px 0 0;display: block;}
+.numbers li a {width: auto;float: left;text-align: center;list-style: none;padding: 1px 4px;display: block;text-decoration: none;color: #161616;font-weight:bold}
+.numbers li a:hover {width: auto;float: left;text-align: center;list-style: none;display: block;text-decoration: none;color: #000000;}
+.numbers li.selected {width: auto;float: left;text-align: center;list-style: none;display: block;text-decoration: underline;color: #ff0097;padding: 1px 4px;font-weight: bold;}
+.numbers li.control {width: auto;float: left;text-align: center;list-style: none;display: block;text-decoration: none;color: #333333;padding: 0px 0px 0px 0px;}
+.numbers li.controlde {width: auto;float: left;text-align: center;list-style: none;display: block;text-decoration: none;color: #999999;	padding: 1px 4px;margin: auto;}
+.numbers li.control a {width: auto;float: left;text-align: center;list-style: none;display: block;text-decoration: none;color: #333333;font-weight: bold;padding: 1px 4px;}
+

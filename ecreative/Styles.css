@@ -1,0 +1,62 @@
+a:link {  color: #336699; text-decoration: underline}
+a:visited {  color: #336699; text-decoration: underline}
+a:hover {  color: #333333; text-decoration: none}
+.textcontent {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000066; text-decoration: none; line-height: 20px}
+.inputemail {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; border: 1px #99B2CC solid; width: 100px}
+.browse {  color: #336699; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: #F4F7FA}
+.text2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	line-height: normal;
+	font-weight: bold;
+
+}
+.unnamed1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.bg {
+	background-attachment: fixed;
+	background-image: url(images/bg1.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.bg4 {
+	background-image: url(home-images/bg1.gif);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.blue {
+	background-attachment: fixed;
+	background-image: url(inner-images/blue.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.bgCopy {
+
+	background-attachment: fixed;
+	background-image: url(inner/bg3.jpg);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+.bgleft {
+	background-attachment: fixed;
+	background-image: url(images/bg2.jpg);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+.bgme {
+	background-attachment: fixed;
+	background-image: url(inner-images/bgme.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.new {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #999999;
+}

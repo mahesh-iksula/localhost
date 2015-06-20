@@ -1,0 +1,223 @@
+/* CSS Document 
+
+*/
+
+BODY
+		{
+			topmargin:0; 
+			bottommargin:0; 
+			leftmargin=:0;
+			rightmargin:0;
+			
+		}
+		a:link { 
+	    color: #d91d13;
+		text-decoration: none;
+	}
+a:visited { 
+	color: #d91d13;
+	text-decoration: none;
+	}
+a:hover { 
+	color: #d91d13;
+	background-color: 
+	text-decoration: none;
+	}
+a:active { 
+	color: #d91d13;
+	text-decoration: none;
+	
+	}
+	.links	{
+		FONT-SIZE: 14px;
+		COLOR:#d91d13;
+		FONT-FAMILY: Arial;
+		ALIGN: Center;
+	    FONT-WEIGHT: bold;
+
+	}
+	.orange{ 
+	color: #FD7A05;
+	background-color: 
+	text-decoration: bold;
+	FONT-WEIGHT : bold;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	}
+	.green{ 
+	color: #297E00;
+	background-color: 
+	text-decoration: bold;
+	FONT-WEIGHT : bold;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	}	
+		
+
+	.compulsary
+{
+    	COLOR: red
+}
+	
+	.txtblack
+	{
+	    FONT-WEIGHT: bold;
+		FONT-SIZE: 11px;
+		COLOR:#000000;
+		FONT-FAMILY:Verdana, sans-serif
+	}
+	
+.Bbold
+	{
+	    FONT-WEIGHT:bold;
+		FONT-SIZE: 12px;
+		COLOR:#4c4949;
+		FONT-FAMILY:Verdana, sans-serif
+	}
+.about
+	{
+	   FONT-WEIGHT: regular;
+	   FONT-STYLE: regular;
+		FONT-SIZE: 12px;
+		COLOR:#4c4949;
+		FONT-FAMILY:Verdana, sans-serif
+	}
+	}	
+.aura
+    {		
+		
+		 FONT-WEIGHT: bold;
+	   FONT-STYLE: regular;
+		FONT-SIZE: 12px;
+		COLOR:#008067;
+		FONT-FAMILY:Verdana, sans-serif
+	}	
+.txtRBold
+	{
+	    FONT-WEIGHT: strong;
+		FONT-STYLE: regular;
+		FONT-SIZE: 12px;
+		COLOR:#F0772A;
+		FONT-FAMILY:Arial, Helvetica, sans-serif
+	}			
+.bluebold
+	{
+	     FONT-WEIGHT:  strong;
+	   FONT-STYLE:  strong;
+		FONT-SIZE: 12px;
+		COLOR:#487B9C;
+		FONT-FAMILY:Verdana, sans-serif
+    } 
+	
+.bold
+	{
+	     FONT-WEIGHT: bold;
+	   FONT-STYLE: bold;
+		FONT-SIZE: 12px;
+		COLOR:#487B9C;
+		FONT-FAMILY:Verdana, sans-serif
+		 }      
+.txtwhiteitalics
+	{
+	    FONT-STYLE: italic; 
+		FONT-SIZE:12px;
+		COLOR:#FFFFFF;
+		FONT-FAMILY:Arial, Helvetica, sans-serif
+		 } 	
+.txtwhiteBold
+	{
+	    FONT-WEIGHT: bold;
+		FONT-SIZE: 12px;
+		COLOR:#FFFFFF;
+		FONT-FAMILY:Verdana, sans-serif      
+		}
+.txtwhiteitalics
+	{
+	    FONT-WEIGHT:regular;
+		FONT-STYLE: italic; 
+		FONT-SIZE:12px;
+		COLOR:#FFFFFF
+	}	
+.txtwhite		
+	{
+	    FONT-WEIGHT : bold;
+		FONT-SIZE:11px;
+		COLOR:#FFFFFF;
+		FONT-FAMILY:Arial
+		
+}	
+.txtwhitereg		
+	{
+	    FONT-WEIGHT : regular;
+		FONT-SIZE:12px;
+		COLOR:#FFFFFF;
+		FONT-FAMILY:Arial
+}	
+.txtcentury		
+	{
+	    FONT-WEIGHT : bold;
+		FONT-SIZE:18px;
+		COLOR:#CC0000;
+		FONT-FAMILY:Century Gothic
+		
+}	
+.txtbank		
+	{
+	    FONT-WEIGHT : Bold;
+		FONT-SIZE:12px;
+		COLOR:#FFFFFF;
+		FONT-FAMILY:Arial
+}	
+.textbox
+{
+    	BORDER-RIGHT: #aaaaaa 1px solid;
+    	BORDER-TOP: #aaaaaa 1px solid;
+    	FONT-SIZE: 11px;
+    	BORDER-LEFT: #aaaaaa 1px solid;
+    	BORDER-BOTTOM: #aaaaaa 1px solid;
+    	FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    	BACKGROUND-COLOR: #ffffff;
+    	width:250px;
+    	
+}
+.txt1		
+	{
+	    FONT-WEIGHT : bold;
+		FONT-SIZE:14px;
+		COLOR:#FFCC00;
+		FONT-FAMILY: Arial, Helvetica, sans-serif
+}			
+.txt2
+	{
+	    FONT-WEIGHT: bold;
+		FONT-SIZE: 18px;
+		COLOR:#FFFFFF;
+		FONT-FAMILY:Arial, Helvetica, sans-serif		
+}	
+.txt3		
+	{
+	    
+		FONT-SIZE:14px;
+		COLOR:#ce960f;
+		FONT-FAMILY:Arial
+		}	
+.txt4		
+	{
+	    FONT-WEIGHT : bold;
+		FONT-SIZE:12px;
+		COLOR:#FF6600;
+		FONT-FAMILY: Arial, Helvetica, sans-serif
+		}
+		.Projectgallery
+	{
+		FONT-SIZE: 10px;
+		COLOR:#ffffff;
+		FONT-FAMILY: Arial, Helvetica, sans-serif;
+		 
+		
+	}	
+	.txtcaption
+	{
+	    FONT-WEIGHT: normal;
+		FONT-SIZE: 10pt;
+		COLOR:navy;
+		FONT-FAMILY:Arial, Helvetica, sans-serif
+	}											

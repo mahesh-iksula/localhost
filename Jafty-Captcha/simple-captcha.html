@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Simple Captcha by Ian L. of Jafty.com</title>
+<style>
+body{
+background-color: #430000;
+margin: 50px;
+}
+
+
+.invalid input:required:invalid {
+    background: #BE4C54;
+}
+
+.invalid input:required:valid {
+    background: #17D654 ;
+}
+
+input {
+  display: inline;
+  margin-bottom: 10px;
+}
+</style>
+</head>
+<body>
+<form class="validate-form" method="post" action="newpg.html">
+<span style="color:#FFF">What is <span id="no1"></span> plus <span id="no2"></span>?</span>
+<input name="answer" id="answer"  pattern="7" title="Please answer the question to prove you are human" placeholder="your answer" required>
+<input type="submit">
+</form>
+<span id="status" style="display:none">Unsubmitted</span>
+<script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+<script type="text/javascript" src="captcha.js"></script>
+<script>placenumber();</script>
+</body>
+</html>

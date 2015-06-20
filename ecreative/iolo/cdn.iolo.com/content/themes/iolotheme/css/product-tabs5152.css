@@ -1,0 +1,196 @@
+.wordpress-post-tabs-skin-gray .ui-tabs {
+    padding: 0em !important;
+}
+.wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-panel {
+    padding: 20px 20px 0px 20px !important;
+}
+.wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li {
+    list-style: none outside none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+	border-top-left-radius: 0px !important;
+	border-top-right-radius: 0px !important;
+}
+.wordpress-post-tabs-skin-gray .ui-corner-top, .wordpress-post-tabs-skin-gray .ui-tabs-horizontal-top .wpts_ext {
+    border-bottom-width: 0 !important;
+    border-top-width: 0px !important;
+}
+.wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav {
+    padding: 0 0 0 0 !important;
+	border-left: 0px solid #d8d8d8 !important;
+	border-right: 0px solid #d8d8d8 !important;
+}
+.wordpress-post-tabs-skin-gray .ui-state-active, .wordpress-post-tabs-skin-gray .ui-widget-content .ui-state-active {
+    background: url("http://www.iolo.com/") repeat-x scroll 50% 50% #FFFFFF;
+    border: 0px solid #AAAAAA!important;
+    color: #212121 !important;
+    font-weight: normal;
+    outline: medium none;
+}
+.ui-tabs {
+    border: 0px solid #AAAAAA !important;
+    background-image: url("../../../uploads/product_body_sides_new.png") !important;
+    background-repeat: no-repeat !important;
+    padding: 20px 20px 40px 20px !important;
+}
+.wordpress-post-tabs-skin-gray .ui-state-default, .wordpress-post-tabs-skin-gray .ui-widget-content .ui-state-default { 
+	border: 0px solid #d3d3d3 !important; 
+}
+ul.ui-tabs-nav {
+    background: none repeat scroll 0 0 #ffffff!important;
+}
+.wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li.ui-state-active a, .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li.ui-state-processing a {
+    background-color: #E3E1E1 !important;
+    color: #5F5F5F !important;
+    font-family: Arial,Verdana,sans-serif !important;
+    font-size: 18px !important;
+    height: 35px !important;
+	line-height: 35px !important;
+}
+.wordpress-post-tabs-skin-gray .ui-state-default, .wordpress-post-tabs-skin-gray .ui-widget-content .ui-state-default {
+    background: url("") repeat-x scroll 50% 50% #5f5f5f!important;
+}
+.wordpress-post-tabs-skin-gray .ui-state-hover, .wordpress-post-tabs-skin-gray .ui-widget-content .ui-state-hover, .wordpress-post-tabs-skin-gray .ui-state-focus, .wordpress-post-tabs-skin-gray .ui-widget-content .ui-state-focus {
+    background: url("") repeat-x scroll 50% 50% #929292!important;
+}
+.wordpress-post-tabs-skin-gray .ui-state-default a, .wordpress-post-tabs-skin-gray .ui-state-default a:link, .wordpress-post-tabs-skin-gray .ui-state-default a:hover {
+    color: #FFFFFF !important;
+	font-family: Arial,Verdana,sans-serif !important;
+    font-size: 18px !important;
+    height: 35px !important;
+	line-height: 35px !important;
+}
+ul.ui-tabs-nav li a {
+	text-shadow:none !important
+}
+
+.wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li a, .wordpress-post-tabs-skin-gray .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-state-active a {
+	border-right: 1px solid #d8d8d8 !important;
+}
+
+
+.smTabs{
+	position:relative;
+	top:-50px;
+}
+.smpTabs{
+	position:relative;
+	top:-60px;
+}
+
+.smTabs .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li.ui-state-active a, .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li.ui-state-processing a {
+	width:219px;
+}
+.smTabs .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li a, .wordpress-post-tabs-skin-gray .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-state-active a {
+    width: 220px;
+}
+
+
+.smpTabs .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li.ui-state-active a, .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li.ui-state-processing a {
+	width:154px;
+}
+.smpTabs .wordpress-post-tabs-skin-gray .ui-tabs .ui-tabs-nav li a, .wordpress-post-tabs-skin-gray .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-state-active a {
+    width: 156px;
+}
+
+
+/*Start SM Product Tabs*/
+.smTabsTwo ul{
+    background-color: #5f5f5f !important;
+    height: 51px;
+    left: -19px;
+    list-style-type: none;
+    margin: 0!important;
+    padding: 0px 0 0!important;
+    position: relative;
+    top: -20px;
+	width: 768px;
+}
+.smTabsTwo li{
+	display:inline;
+	font-size: 18px !important;
+	font-family: Arial,Verdana,sans-serif !important;
+	line-height: 51px;
+	text-decoration:none !important;
+	margin-left:0px;
+}
+.smTabsTwo .ui-tabs-active a{
+	background-color:#e3e1e1 !important;
+	color:#5f5f5f !important;
+	text-decoration:none !important;
+}
+.smTabsTwo li a{
+	color:#FFF;
+	text-decoration:none !important;
+	border-right: 1px solid #D8D8D8 !important;
+	width:235px;
+	float: left;
+	padding-left: 20px;
+	outline-color: transparent;
+	outline-style: none;
+}
+.smTabsTwo li a:hover{
+	color:#FFF;
+	background-color:#929292;
+	text-decoration:none !important;
+}
+.smTabsTwo li a:active{
+	color:#FFF;
+	background-color:#929292;
+	text-decoration:none !important;
+	outline-color: transparent;
+	outline-style: none;
+}
+/*End SM Product Tabs*/
+
+/*Start SMP Product Tabs*/
+.smpTabsTwo ul{
+    background-color: #5f5f5f !important;
+    height: 51px;
+    left: -19px;
+    list-style-type: none;
+    margin: 0!important;
+    padding: 0px 0 0!important;
+    position: relative;
+    top: -20px;
+	width: 768px;
+}
+.smpTabsTwo li{
+	display:inline;
+	font-size: 18px !important;
+	font-family: Arial,Verdana,sans-serif !important;
+	line-height: 51px;
+	text-decoration:none !important;
+	margin-left:0px;
+}
+.bx-window ul li {
+    margin: 0 0 5px 0;
+}
+.smpTabsTwo .ui-tabs-active a{
+	background-color:#e3e1e1 !important;
+	color:#5f5f5f !important;
+	text-decoration:none !important;
+}
+.smpTabsTwo li a{
+	color:#FFF;
+	text-decoration:none !important;
+	border-right: 1px solid #D8D8D8 !important;
+	width:171px;
+	float: left;
+	padding-left: 20px;
+	outline-color: transparent;
+	outline-style: none;
+}
+.smpTabsTwo li a:hover{
+	color:#FFF;
+	background-color:#929292;
+	text-decoration:none !important;
+}
+.smpTabsTwo li a:active{
+	color:#FFF;
+	background-color:#929292;
+	text-decoration:none !important;
+	outline-color: transparent;
+	outline-style: none;
+}
+/*End SMP Product Tabs*/

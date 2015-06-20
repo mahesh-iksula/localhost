@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "en, en, *" http://www.iolo.com/products/system-mechanic-professional/ http://www.iolo.com/products/system-mechanic/ http://www.iolo.com/products/system-mechanic-business/ http://www.iolo.com/products/system-shield/ http://www.iolo.com/products/search-and-recover/ http://www.iolo.com/products/drivescrubber/ -O1 "C:\\Users\\pankaj.jain\\My Web Sites\\Iolo" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Mon, 18 Nov 2013 01:28:57, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
